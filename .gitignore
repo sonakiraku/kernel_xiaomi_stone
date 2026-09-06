@@ -25,7 +25,6 @@ build_log.txt
 *.elf
 *.gcno
 *.gz
-*.i
 *.ko
 *.lex.c
 *.ll
